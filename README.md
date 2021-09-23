@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imalka
-- 👀 I’m interested in databses 
+- 👀 I’m interested in databases 
 - 🌱 I’m currently learning springboot 
 
 
