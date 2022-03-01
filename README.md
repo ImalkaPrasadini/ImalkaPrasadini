@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imalka
-- 👀 I’m interested in databases 
+- 👀 I’m interested in databases and software development
 
 https://stackblitz.com/
 
