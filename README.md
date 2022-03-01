@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Imalka
 - 👀 I’m interested in databases 
-- 🌱 I’m currently learning springboot 
 
 https://stackblitz.com/
 
