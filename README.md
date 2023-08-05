@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imalka
-- 👀 I’m interested in databases and software development
+- 👀 Software Engineer
 
 <!---
 ImalkaPrasadini/ImalkaPrasadini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
